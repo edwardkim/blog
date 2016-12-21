@@ -1,3 +1,9 @@
 # Welcome to edward's blog with markdown 
 
-' import Jekyll
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
